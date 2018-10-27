@@ -1,0 +1,13 @@
+.location-text {
+  color: white;
+  background-color: rgb(223, 146, 83);
+  padding: 15px 10px;
+  display: inline-flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  border-radius: 70%;
+}
+.map-container {
+  margin: 10px;
+}
